@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>app.qml</file>
+        <file>pages/Game.qml</file>
+        <file>pages/Lobby.qml</file>
+        <file>pages/JoinedRoom.qml</file>
+        <file>pages/ResultsPage.qml</file>
+        <file>js/functions.js</file>
+        <file>js/actionsButton.js</file>
+        <file>js/ranking.js</file>
+    </qresource>
+</RCC>

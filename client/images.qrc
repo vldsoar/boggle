@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/black/arrow_back.png</file>
+        <file>images/black/done.png</file>
+        <file>images/black/person@2x.png</file>
+        <file>images/black/sign_in.png</file>
+        <file>images/white/arrow_back.png</file>
+        <file>images/white/done.png</file>
+        <file>images/white/done@2x.png</file>
+        <file>images/white/person.png</file>
+        <file>images/white/person@2x.png</file>
+        <file>images/trophy.png</file>
+        <file>images/userposition.png</file>
+    </qresource>
+</RCC>
